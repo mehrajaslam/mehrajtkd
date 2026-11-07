@@ -1,0 +1,6 @@
+{
+  "name": "PTF & World Strikers AI Taekwondo Master Coach",
+  "description": "Educational AI Taekwondo platform for students, instructors, coaches, and referees from 10th Gup to 9th Dan preparation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
